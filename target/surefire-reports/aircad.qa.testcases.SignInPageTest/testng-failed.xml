@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [aircad.qa.testcases.SignInPageTest]">
+  <test thread-count="5" verbose="0" name="Command line test(failed)">
+    <classes>
+      <class name="aircad.qa.testcases.SignInPageTest">
+        <methods>
+          <include name="Title_SignInPage_Test"/>
+          <include name="TearDown"/>
+          <include name="Setup"/>
+          <include name="SignIn_Test"/>
+        </methods>
+      </class> <!-- aircad.qa.testcases.SignInPageTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [aircad.qa.testcases.SignInPageTest] -->

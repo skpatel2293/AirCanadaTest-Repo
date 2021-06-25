@@ -1,0 +1,6 @@
+aircad\qa\util\Testutil.class
+aircad\qa\pages\PlanPage.class
+aircad\qa\pages\SignUpPage.class
+aircad\qa\pages\HomePage.class
+aircad\qa\pages\SignInPage.class
+aircad\qa\base\TestBase.class

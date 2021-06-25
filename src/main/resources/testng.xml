@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Air Canada Test Automation Test Suite">
+
+
+
+	<test name="Air Canada App Test Cases">
+		<classes>
+			<class name="aircad.qa.testcases.SignInPageTest"></class>
+		
+
+		</classes>
+	</test>
+</suite>
